@@ -7,5 +7,14 @@ Everything seemed ok and we implemented the code.
 
 It can run on any Android device because the requirements are low.
 
-Over the last weeks, Radu and I worked on an Android browser app and we included the login in it. The following screenshots are taken from the app running on a Samsung S4.
+Over the last weeks, Radu and I worked on an Android browser application and we included the login in it. The following screenshots are taken from the app running on a Samsung S4 running Android 5.0.1.
 
+Login:          http://postimg.org/image/c6xqoidsb/
+Menu:           http://postimg.org/image/cov7nfrgb/
+Login Settings: http://postimg.org/image/65qmputhb/
+HomePage:       http://postimg.org/image/602qwyrxv/
+Settings:       http://postimg.org/image/gwh768rot/
+History:        http://postimg.org/image/6c402b3fd/
+Favorites:      http://postimg.org/image/mnaepbtmp/
+
+Thank you!
