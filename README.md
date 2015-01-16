@@ -9,7 +9,8 @@ It can run on any Android device because the requirements are low.
 
 Over the last weeks, Radu and I worked on an Android browser application and we included the login in it. The following screenshots are taken from the app running on a Samsung S4 running Android 5.0.1.
 
-Login:          [url=http://postimg.org/image/gb13mnv1n/][img]http://s9.postimg.org/gb13mnv1n/10409711_10204589995323852_6784335201883561442_n.jpg[/img][/url]
+Login:          <a href='http://postimage.org/' target='_blank'><img src='http://s9.postimg.org/j54903x7z/10409711_10204589995323852_6784335201883561442_n.jpg' border='0' alt="10409711 10204589995323852 6784335201883561442 n" /></a><br /><a target='_blank' href='http://postimage.org/'>image hosting site over 5mb</a><br /><br />
+
 [url=http://postimage.org/]image hosting site over 5mb[/url]
 Menu:           http://postimg.org/image/cov7nfrgb/
 Login Settings: http://postimg.org/image/65qmputhb/
